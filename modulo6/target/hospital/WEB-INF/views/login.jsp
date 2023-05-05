@@ -37,7 +37,7 @@
     <body>
     <div class="login-form">
         <form action="/examples/actions/confirmation.php" method="post">
-            <h2 class="text-center">MediHub</h2>
+            <h2 class="text-center">Sprint Modulo 6</h2>
             <div class="form-group">
                 <input type="text" class="form-control" placeholder="Usuario" required="required">
             </div>

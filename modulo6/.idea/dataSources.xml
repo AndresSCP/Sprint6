@@ -9,7 +9,7 @@
 
 C:/Users/mauri/OneDrive/Documentos/GitHub/PortafolioUNAB/hospital/src/main/resources/hibernate.cfg.xml</remarks>
       <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
-      <jdbc-url>jdbc:mysql://localhost:3306/hospitaldb</jdbc-url>
+      <jdbc-url>jdbc:mysql://localhost:3306/sprint6db</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
   </component>
